@@ -1,0 +1,207 @@
+{
+    "users": {
+        "8521321159": {
+            "balance": 0,
+            "username": "qhoanios18",
+            "full_name": "lovephuyen",
+            "join_date": "29/06/2026",
+            "history": []
+        }
+    },
+    "keys": {
+        "fluorite_1d": [
+            "KEY-FLUORITE-1D-001",
+            "KEY-FLUORITE-1D-002",
+            "KEY-FLUORITE-1D-003"
+        ],
+        "fluorite_7d": [
+            "KEY-FLUORITE-7D-001",
+            "KEY-FLUORITE-7D-002",
+            "KEY-FLUORITE-7D-003",
+            "KEY-FLUORITE-7D-004"
+        ],
+        "fluorite_31d": [],
+        "migui_lite_7d": [
+            "KEY-MIGUL-LITE-7D-001",
+            "KEY-MIGUL-LITE-7D-002",
+            "KEY-MIGUL-LITE-7D-003",
+            "KEY-MIGUL-LITE-7D-004",
+            "KEY-MIGUL-LITE-7D-005",
+            "KEY-MIGUL-LITE-7D-006",
+            "KEY-MIGUL-LITE-7D-007",
+            "KEY-MIGUL-LITE-7D-008",
+            "KEY-MIGUL-LITE-7D-009",
+            "KEY-MIGUL-LITE-7D-010",
+            "KEY-MIGUL-LITE-7D-011",
+            "KEY-MIGUL-LITE-7D-012",
+            "KEY-MIGUL-LITE-7D-013",
+            "KEY-MIGUL-LITE-7D-014"
+        ],
+        "migui_lite_30d": [
+            "KEY-MIGUL-LITE-30D-001",
+            "KEY-MIGUL-LITE-30D-002",
+            "KEY-MIGUL-LITE-30D-003",
+            "KEY-MIGUL-LITE-30D-004",
+            "KEY-MIGUL-LITE-30D-005",
+            "KEY-MIGUL-LITE-30D-006",
+            "KEY-MIGUL-LITE-30D-007",
+            "KEY-MIGUL-LITE-30D-008"
+        ],
+        "migul_pro_1h": [
+            "KEY-MIGUL-PRO-1H-001",
+            "KEY-MIGUL-PRO-1H-002",
+            "KEY-MIGUL-PRO-1H-003",
+            "KEY-MIGUL-PRO-1H-004",
+            "KEY-MIGUL-PRO-1H-005",
+            "KEY-MIGUL-PRO-1H-006",
+            "KEY-MIGUL-PRO-1H-007",
+            "KEY-MIGUL-PRO-1H-008",
+            "KEY-MIGUL-PRO-1H-009",
+            "KEY-MIGUL-PRO-1H-010",
+            "KEY-MIGUL-PRO-1H-011",
+            "KEY-MIGUL-PRO-1H-012",
+            "KEY-MIGUL-PRO-1H-013",
+            "KEY-MIGUL-PRO-1H-014",
+            "KEY-MIGUL-PRO-1H-015",
+            "KEY-MIGUL-PRO-1H-016",
+            "KEY-MIGUL-PRO-1H-017",
+            "KEY-MIGUL-PRO-1H-018",
+            "KEY-MIGUL-PRO-1H-019",
+            "KEY-MIGUL-PRO-1H-020",
+            "KEY-MIGUL-PRO-1H-021",
+            "KEY-MIGUL-PRO-1H-022",
+            "KEY-MIGUL-PRO-1H-023",
+            "KEY-MIGUL-PRO-1H-024"
+        ],
+        "migul_pro_1d": [
+            "KEY-MIGUL-PRO-1D-001",
+            "KEY-MIGUL-PRO-1D-002",
+            "KEY-MIGUL-PRO-1D-003",
+            "KEY-MIGUL-PRO-1D-004",
+            "KEY-MIGUL-PRO-1D-005",
+            "KEY-MIGUL-PRO-1D-006",
+            "KEY-MIGUL-PRO-1D-007",
+            "KEY-MIGUL-PRO-1D-008",
+            "KEY-MIGUL-PRO-1D-009"
+        ],
+        "migui_pro_7d": [
+            "KEY-MIGUI-PRO-7D-001",
+            "KEY-MIGUI-PRO-7D-002",
+            "KEY-MIGUI-PRO-7D-003",
+            "KEY-MIGUI-PRO-7D-004",
+            "KEY-MIGUI-PRO-7D-005",
+            "KEY-MIGUI-PRO-7D-006",
+            "KEY-MIGUI-PRO-7D-007",
+            "KEY-MIGUI-PRO-7D-008",
+            "KEY-MIGUI-PRO-7D-009",
+            "KEY-MIGUI-PRO-7D-010",
+            "KEY-MIGUI-PRO-7D-011",
+            "KEY-MIGUI-PRO-7D-012",
+            "KEY-MIGUI-PRO-7D-013"
+        ],
+        "migui_pro_31d": [
+            "KEY-MIGUI-PRO-31D-001",
+            "KEY-MIGUI-PRO-31D-002",
+            "KEY-MIGUI-PRO-31D-003",
+            "KEY-MIGUI-PRO-31D-004",
+            "KEY-MIGUI-PRO-31D-005",
+            "KEY-MIGUI-PRO-31D-006",
+            "KEY-MIGUI-PRO-31D-007",
+            "KEY-MIGUI-PRO-31D-008",
+            "KEY-MIGUI-PRO-31D-009",
+            "KEY-MIGUI-PRO-31D-010",
+            "KEY-MIGUI-PRO-31D-011",
+            "KEY-MIGUI-PRO-31D-012",
+            "KEY-MIGUI-PRO-31D-013",
+            "KEY-MIGUI-PRO-31D-014"
+        ],
+        "drip_30d": [
+            "KEY-DRIP-30D-001",
+            "KEY-DRIP-30D-002",
+            "KEY-DRIP-30D-003",
+            "KEY-DRIP-30D-004",
+            "KEY-DRIP-30D-005",
+            "KEY-DRIP-30D-006",
+            "KEY-DRIP-30D-007",
+            "KEY-DRIP-30D-008",
+            "KEY-DRIP-30D-009",
+            "KEY-DRIP-30D-010",
+            "KEY-DRIP-30D-011",
+            "KEY-DRIP-30D-012"
+        ],
+        "drip_lifetime": [
+            "KEY-DRIP-LIFE-001",
+            "KEY-DRIP-LIFE-002"
+        ],
+        "esign_1y": [
+            "KEY-ESIGN-1Y-001",
+            "KEY-ESIGN-1Y-002",
+            "KEY-ESIGN-1Y-003",
+            "KEY-ESIGN-1Y-004",
+            "KEY-ESIGN-1Y-005",
+            "KEY-ESIGN-1Y-006",
+            "KEY-ESIGN-1Y-007",
+            "KEY-ESIGN-1Y-008",
+            "KEY-ESIGN-1Y-009",
+            "KEY-ESIGN-1Y-010",
+            "KEY-ESIGN-1Y-011",
+            "KEY-ESIGN-1Y-012",
+            "KEY-ESIGN-1Y-013",
+            "KEY-ESIGN-1Y-014",
+            "KEY-ESIGN-1Y-015",
+            "KEY-ESIGN-1Y-016",
+            "KEY-ESIGN-1Y-017",
+            "KEY-ESIGN-1Y-018",
+            "KEY-ESIGN-1Y-019",
+            "KEY-ESIGN-1Y-020"
+        ],
+        "8bp_7d": [
+            "KEY-8BP-7D-001",
+            "KEY-8BP-7D-002",
+            "KEY-8BP-7D-003",
+            "KEY-8BP-7D-004",
+            "KEY-8BP-7D-005",
+            "KEY-8BP-7D-006"
+        ],
+        "8bp_30d": [
+            "KEY-8BP-30D-001",
+            "KEY-8BP-30D-002",
+            "KEY-8BP-30D-003",
+            "KEY-8BP-30D-004"
+        ],
+        "proxy_7d": [
+            "KEY-PROXY-7D-001",
+            "KEY-PROXY-7D-002",
+            "KEY-PROXY-7D-003",
+            "KEY-PROXY-7D-004",
+            "KEY-PROXY-7D-005"
+        ],
+        "proxy_31d": [
+            "KEY-PROXY-31D-001",
+            "KEY-PROXY-31D-002",
+            "KEY-PROXY-31D-003",
+            "KEY-PROXY-31D-004"
+        ],
+        "tipa_sudo_30d": [
+            "KEY-TIPA-SUDO-30D-001",
+            "KEY-TIPA-SUDO-30D-002",
+            "KEY-TIPA-SUDO-30D-003",
+            "KEY-TIPA-SUDO-30D-004",
+            "KEY-TIPA-SUDO-30D-005",
+            "KEY-TIPA-SUDO-30D-006",
+            "KEY-TIPA-SUDO-30D-007",
+            "KEY-TIPA-SUDO-30D-008"
+        ],
+        "tipa_iosviet_30d": [
+            "KEY-TIPA-IOSVIET-30D-001",
+            "KEY-TIPA-IOSVIET-30D-002",
+            "KEY-TIPA-IOSVIET-30D-003",
+            "KEY-TIPA-IOSVIET-30D-004",
+            "KEY-TIPA-IOSVIET-30D-005"
+        ]
+    },
+    "stats": {
+        "total_revenue": 0,
+        "keys_sold": 0
+    }
+}
